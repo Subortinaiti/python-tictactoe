@@ -65,4 +65,5 @@ Feel free to customize the color styles in the script according to your preferen
 Enjoy playing Tic Tac Toe!
 
 
+this README was made with the help of ChatGPT.
 
